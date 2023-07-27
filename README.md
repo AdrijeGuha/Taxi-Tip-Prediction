@@ -2,16 +2,16 @@
 ![taxi_image](https://static01.nyt.com/images/2017/06/07/nyregion/07TAXI1/07TAXI1-superJumbo.jpg)
 
 
-In this exercise session, we consolidated our machine learning (ML) modelling skills by using a popular classification models to predict taxi tip. The model used is [`Decision Tree`](https://en.wikipedia.org/wiki/Decision_tree). We used a real dataset to train each of these models. The dataset includes information about taxi tip and was collected and provided to the NYC Taxi and Limousine Commission (TLC) by technology providers authorized under the Taxicab & Livery Passenger Enhancement Programs (TPEP/LPEP). You will use the trained model to predict the amount of tip paid.
+In this exercise session, we consolidated our machine learning (ML) modelling skills by using a popular classification model to predict taxi tips. The model used is [`Decision Tree`](https://en.wikipedia.org/wiki/Decision_tree). We used a real dataset to train each of these models. The dataset includes information about taxi tips and was collected and provided to the NYC Taxi and Limousine Commission (TLC) by technology providers authorized under the Taxicab & Livery Passenger Enhancement Programs (TPEP/LPEP). We used the trained model to predict the amount of tips paid.
 
 
-In the current exercise session, we practiced the Scikit-Learn Python interface and the Python API offered by the Snap Machine Learning (Snap ML) library.
+In the current exercise session, we practised the Scikit-Learn Python interface and the Python API offered by the Snap Machine Learning (Snap ML) library.
 
-Scikit-learn is a free, open-source and popular machine learning library for Python.It features various classification, regression and clustering algorithms including support-vector machines, random forests, and k-means. It is easy to use and has a well-documented API. It is constantly being updated with new features and algorithms. This makes it a valuable tool for data scientists and machine learning practitioners.
+Scikit-learn is a free, open-source and popular machine-learning library for Python. It features various classification, regression and clustering algorithms including support-vector machines, random forests, and k-means. It is easy to use and has a well-documented API. It is constantly being updated with new features and algorithms. This makes it a valuable tool for data scientists and machine learning practitioners.
 
 Snap ML is a high-performance IBM library for ML modelling. It provided highly-efficient CPU/GPU implementations of linear models and tree-based models. Snap ML not only accelerated ML algorithms through system awareness, but it also offered novel ML algorithms with best-in-class accuracy.
 
-It was exciting to learn how to use these two popular classification models to detect fraudulent credit card transactions. We believed that this knowledge would be valuable in our future careers as data scientists. We were also looking forward to practicing the Scikit-Learn Python interface and the Snap ML library. We were confident that this would help us to become more proficient ML modellers. For more information, please visit [snapml](https://snapml.readthedocs.io/en/latest/) information page and [SciKit-Learn](https://scikit-learn.org/stable/index.html) information page.
+It was exciting to learn how to use these two popular classification models to detect fraudulent credit card transactions. We believe that this knowledge would be valuable in our future careers as data scientists. We also looked forward to practising the Scikit-Learn Python interface and the Snap ML library. We were confident this would help us become more proficient ML modellers. For more information, please visit [snapml](https://snapml.readthedocs.io/en/latest/) information page and [SciKit-Learn](https://scikit-learn.org/stable/index.html) information page.
 
 ## Objectives
 - Perform basic data preprocessing using Scikit-Learn
