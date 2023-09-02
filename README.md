@@ -1,4 +1,4 @@
-# **Taxi Tip Prediction using Scikit-Learn and Snap ML**
+# **Tip Genie: NYC Taxi Tip Prediction using Scikit-Learn and Snap ML**
 ![taxi_image](https://static01.nyt.com/images/2017/06/07/nyregion/07TAXI1/07TAXI1-superJumbo.jpg)
 
 
